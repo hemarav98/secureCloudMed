@@ -1,1 +1,2 @@
 # SecureCloudMed: Fortifying Data Privacy for Electronic Health Records in Cloud Computing
+Migrating EHRs to cloud computing brings in the influence of third parties who could directly compromise the privacy of data or introduce vulnerabilities that could be exploited by hackers to gain unauthorized access to the data. The failure to protect the privacy of EHRs in cloud amounts to a violation of the privacy requirements of HIPAA. The problem is the increased vulnerability of EHRs to privacy breaches due to migration to cloud computing
